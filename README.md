@@ -3,7 +3,7 @@ My name is nian luisman I study [Applied Computer Science](https://www.saxion.ed
 
 
 
-### Things I build with :musical_note:
+### Things I build with :computer:
 I use the following tools within my education or projects:
 
 <p align="center">
