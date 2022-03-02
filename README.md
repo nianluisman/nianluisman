@@ -26,6 +26,10 @@ I use the following tools within my education or projects:
   <a href="https://nl.mathworks.com/products/matlab.html">
     <img src="img/MATLAB_README_LOGO_BOBAA.png" alt="MATLAB" width="130px" height="50px" style="vertical-align:top; margin:4px">
   </a>
+
+   <a href="https://azure.microsoft.com/en-us/">
+    <img src="img/AZURE_README_LOGO_BOBAA.png" alt="Azure" width="130px" height="50px" style="vertical-align:top; margin:4px">
+   </a>
   
    <a href="https://avaloniaui.net/">
     <img src="img/AVALONIA_README_LOGO_BOBAA.png" alt="Avalonia UI" width="130px" height="50px" style="vertical-align:top; margin:4px">
