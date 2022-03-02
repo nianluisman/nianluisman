@@ -1,5 +1,5 @@
 ## Welkom to my github
-My name is nian luisman i study[Applied Computer Science](https://www.saxion.edu/programmes/bachelor/applied-computer-science). My interset are: C++, python, OOP, generic programing and algoritems. 
+My name is nian luisman i study [Applied Computer Science](https://www.saxion.edu/programmes/bachelor/applied-computer-science). My interset are: C++, python, OOP, generic programing and algoritems. 
 
 
 
