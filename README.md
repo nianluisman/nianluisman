@@ -1,9 +1,9 @@
-## Welkom to my github
-My name is nian luisman i study [Applied Computer Science](https://www.saxion.edu/programmes/bachelor/applied-computer-science). My interset are: C++, python, OOP, generic programing and algoritems. 
+## Welkom to my github :musical_note:
+My name is nian luisman I study [Applied Computer Science](https://www.saxion.edu/programmes/bachelor/applied-computer-science). My interset are: C++, python, CPU, OOP, generic programing and algoritems.
 
 
 
-### Things I build with -  
+### Things I build with :musical_note:
 I use the following tools within my education or projects:
 
 <p align="center">
@@ -22,22 +22,21 @@ I use the following tools within my education or projects:
   <a href="https://code.visualstudio.com/">
     <img src="img/VS_CODE_README_LOGO_BOBAA.png" alt="Visual Studio Code" width="130px" height="50px" style="vertical-align:top; margin:4px">
   </a>
-  
+
   <a href="https://nl.mathworks.com/products/matlab.html">
     <img src="img/MATLAB_README_LOGO_BOBAA.png" alt="MATLAB" width="130px" height="50px" style="vertical-align:top; margin:4px">
   </a>
-  
+
    <a href="https://avaloniaui.net/">
     <img src="img/AVALONIA_README_LOGO_BOBAA.png" alt="Avalonia UI" width="130px" height="50px" style="vertical-align:top; margin:4px">
    </a>
-  
+
   <a href="https://www.intel.com/content/www/us/en/software/programmable/quartus-prime/overview.html">
     <img src="img/QUARTUS_README_LOGO_BOBAA.png" alt="Quartus" width="130px" height="50px" style="vertical-align:top; margin:4px">
   </a>  
 </p>
 
 
-### Contact me
+### Contact me :speech_balloon:
 [![Linkedin Badge](https://img.shields.io/badge/-Nian-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nian-luisman-8a8b12232/)[![Mail Badge](https://img.shields.io/badge/-@nianluisman-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:nianluisman@gmail.com)
   
-
